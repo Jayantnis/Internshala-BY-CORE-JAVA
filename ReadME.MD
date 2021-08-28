@@ -80,6 +80,41 @@ Hi! I am Jayant Nishad, a developer focused on crafting
 * **MyMain.java** `JAVA`
 * **Controller** `JAVA-fx`
 * **app_layout** `FXML`
+<p align="center">
+  <img width="600" height="300" src="https://github.com/Jayantnis/Internshala-BY-CORE-JAVA/blob/main/output_1.png">
+</p>
+
+<p align="center">
+  <img width="600" height="300" src="https://github.com/Jayantnis/Internshala-BY-CORE-JAVA/blob/main/output_2.png">
+</p>
+
+<p align="center">
+  <img width="600" height="300" src="https://github.com/Jayantnis/Internshala-BY-CORE-JAVA/blob/main/output_3.png">
+</p>
+
+<p align="center">
+  <img width="600" height="300" src="https://github.com/Jayantnis/Internshala-BY-CORE-JAVA/blob/main/output_4.png">
+</p>
+
+<p align="center">
+  <img width="600" height="300" src="https://github.com/Jayantnis/Internshala-BY-CORE-JAVA/blob/main/output_5.png">
+</p>
+
+<p align="center">
+  <img width="600" height="300" src="https://github.com/Jayantnis/Internshala-BY-CORE-JAVA/blob/main/output_6.png">
+</p>
+
+<p align="center">
+  <img width="600" height="300" src="https://github.com/Jayantnis/Internshala-BY-CORE-JAVA/blob/main/output_7.png">
+</p>
+
+<p align="center">
+  <img width="600" height="300" src="https://github.com/Jayantnis/Internshala-BY-CORE-JAVA/blob/main/output_8.png">
+</p>
+
+<p align="center">
+  <img width="600" height="300" src="https://github.com/Jayantnis/Internshala-BY-CORE-JAVA/blob/main/output_9.png">
+</p>
 
 ![C2F & F2C](https://github.com/Jayantnis/Internshala-BY-CORE-JAVA/blob/main/output_1.png)
 
