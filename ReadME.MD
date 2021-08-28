@@ -53,12 +53,12 @@
 </p>
 
 <p align="center">
-  <img  src="https://github.com/Jayantnis/Internshala-BY-CORE-JAVA/blob/main/output_9_About_Feature.png">
+  <img  width="600" height="300" src="https://github.com/Jayantnis/Internshala-BY-CORE-JAVA/blob/main/output_9_About_Feature.png">
 </p>
 
 > :hash:#JAVA #Lockdown :hash:#FX #Jar-File :hash:#App #FXML :hash:#
 
-![Connect4](https://github.com/guru-shreyansh/INTERNSHALA-Java-App-Developement-Projects/blob/master/Connect4Game/Output%20%2B%20C4%20%2B%202.png)
+![Connect4](https://github.com/Jayantnis/Internshala-BY-CORE-JAVA/blob/main/output_1_.png)
 
 # JAVA-FX Temperature-Converter-Tool
 
@@ -81,7 +81,7 @@ Hi! I am Jayant Nishad, a developer focused on crafting
 * **Controller** `JAVA-fx`
 * **app_layout** `FXML`
 
-![C2F & F2C](https://github.com/guru-shreyansh/INTERNSHALA-Java-App-Developement-Projects/blob/master/Temperature%20Converter%20Tool/C2F%20%2B%203.png)
+![C2F & F2C]()
 
 > :hash:#JAVA #Lockdown :hash:#FX #Jar-File :hash:#App #FXML :hash:#Dev
 
