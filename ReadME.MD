@@ -22,8 +22,9 @@
                 You’ll be glad you did.
 ```
 * **Main.java** `JAVA`
-* **Controller** `JAVA-fx`
-* **game** `FXML`
+* **Controller.java** `JAVA-fx`
+* **game.fxml** `FXML`
+* 
 <p align="center">
   <img width="600" height="400" src="https://github.com/Jayantnis/Internshala-BY-CORE-JAVA/blob/main/output_1_.png">
 </p>
@@ -78,8 +79,8 @@ Hi! I am Jayant Nishad, a developer focused on crafting
 ```
 
 * **MyMain.java** `JAVA`
-* **Controller** `JAVA-fx`
-* **app_layout** `FXML`
+* **MyController.java** `JAVA-fx`
+* **sample.fxml** `FXML`
 <p align="center">
   <img width="600" height="300" src="https://github.com/Jayantnis/Internshala-BY-CORE-JAVA/blob/main/output_1.png">
 </p>
