@@ -25,16 +25,20 @@
 * **Controller** `JAVA-fx`
 * **game** `FXML`
 <p align="center">
-  <img width="600" height="500" src="https://github.com/Jayantnis/Internshala-BY-CORE-JAVA/blob/main/output_1_.png">
+  <img width="600" height="400" src="https://github.com/Jayantnis/Internshala-BY-CORE-JAVA/blob/main/output_1_.png">
 </p>
 <p align="center">
-  <img width="600" height="300" src="">
+  <img width="600" height="300" src="https://github.com/Jayantnis/Internshala-BY-CORE-JAVA/blob/main/output_2_.png">
 </p>
 <p align="center">
-  <img width="600" height="400" src="">
+  <img width="600" height="400" src="https://github.com/Jayantnis/Internshala-BY-CORE-JAVA/blob/main/output_3_.png">
 </p>
 <p align="center">
-  <img width="600" height="300" src="">
+  <img width="600" height="300" src="https://github.com/Jayantnis/Internshala-BY-CORE-JAVA/blob/main/output_4_Winnar_2.png">
+</p>
+
+<p align="center">
+  <img width="600" height="300" src="https://github.com/Jayantnis/Internshala-BY-CORE-JAVA/blob/main/output_5_Winnar_1.png">
 </p>
 > :hash:#JAVA #Lockdown :hash:#FX #Jar-File :hash:#App #FXML :hash:#Dev
 ####        :100: Get Socialistic :100:
