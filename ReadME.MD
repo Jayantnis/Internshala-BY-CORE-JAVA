@@ -25,7 +25,7 @@
 * **Controller** `JAVA-fx`
 * **game** `FXML`
 <p align="center">
-  <img width="600" height="400" src="C:\Users\Jayant\IdeaProjects\internshala\com\internshala\ConnectFour4_GAME\output_1_.png">
+  <img width="600" height="400" src="https://github.com/Jayantnis/Internshala-BY-CORE-JAVA/blob/main/output_1_.png">
 </p>
 <p align="center">
   <img width="600" height="300" src="">
