@@ -53,7 +53,7 @@
 </p>
 
 <p align="center">
-  <img width="600" height="300" src="https://github.com/Jayantnis/Internshala-BY-CORE-JAVA/blob/main/output_9_About_Feature.png">
+  <img  src="https://github.com/Jayantnis/Internshala-BY-CORE-JAVA/blob/main/output_9_About_Feature.png">
 </p>
 
 > :hash:#JAVA #Lockdown :hash:#FX #Jar-File :hash:#App #FXML :hash:#
